@@ -1,0 +1,22 @@
+.container{
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    background-color: lightblue;
+    width: 50%;
+    margin-left: 15rem;
+    margin-top: 5rem;
+}
+
+.btn{
+    margin: 1em;
+    padding: .7em;
+}
+.input{
+    margin-top: 1.5em;
+    font-size: 1em;
+}
+
+.done{
+    text-decoration: line-through;
+}
